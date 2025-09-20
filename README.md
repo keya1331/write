@@ -5,7 +5,7 @@ this minimal diary web app lets you capture your daily entries, while gently not
 
 - mood detection based on your words  
 - monthly reflections to see the emotional tides  
-- simple, soft design — nothing loud, just you and your thoughts
+- simple, soft design, nothing loud, just you and your thoughts
 
 ---
 ## tech stack
@@ -24,12 +24,7 @@ this minimal diary web app lets you capture your daily entries, while gently not
 ---
 ## why i built this
 sometimes we don't realize how we're feeling until we look back.  
-this is a small place to listen to yourself — softly, quietly, without judgment.
-
----
-## demo
-
-_coming soon..._
+this is a small place to listen to yourself, softly, quietly, without judgment.
 
 ---
 *whispers:* _"keep writing. you're doing better than you know."_
